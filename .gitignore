@@ -1,0 +1,9 @@
+.env
+.env.local
+.venv/
+__pycache__/
+*.pyc
+runtime/
+home.png
+mobile.png
+recognition-qa.png
